@@ -7,3 +7,4 @@
 - tailwind
 - laravel reverb
 - typescript
+- heroicons
